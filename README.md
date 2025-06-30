@@ -14,30 +14,29 @@ The project enables hotel staff to:<br>
 2. View all available menu items
 3. Edit existing food items
 4. Delete menu items
-<br>
-**Features**<br>
+   
+**Features**
 1. Grid-based layout for displaying food items
 2. Stylish card design with hover effects
 3. Form-based item creation and editing
 4. Data stored in a JSON file to simulate a database
 5. RESTful backend using Express.js
-<br>
-**Technologies Used**<br>
+
+**Technologies Used**
 **Frontend:**
 1. HTML5
 2. CSS3
 3. JavaScript
-<br>
-**Backend:**<br>
+
+**Backend:**
 1. Node.js
 2. Express.js
-<br>
-**Data Storage:**<br>
+
+**Data Storage:**
 1. JSON file 
 
-<br>
 **About The Solitaire Hotel, Dehradun**
-<br>
+
 1. **Type:** 4‑star boutique hotel  
 2. **Location:** Haridwar By‑pass Road, Dehradun, Uttarakhand
    https://maps.app.goo.gl/Df8Q3VFgfLYhvRzu9?g_st=aw
