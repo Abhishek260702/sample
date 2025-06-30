@@ -1,43 +1,43 @@
-** MenuControl – Solitaire Staff Panel**
+**MenuControl – Solitaire Staff Panel**
 
- **Project Overview**
+ **Project Overview**<br>
 MenuControl – Solitaire Staff Panel is a focused, full-stack web application designed to help hotel staff manage and maintain food menu items in a structured and user-friendly interface.
-
+<br>
 This project simulates the internal staff-side component of a larger hotel dining management system. While hotel in-room dining systems often include order handling, guest interfaces, and payment modules, this project specifically delivers the core menu control functionality – allowing staff to perform full CRUD operations on menu items.
-
- **Project Scope**
+<br>
+ **Project Scope**<br>
 
 Due to limited time and the need to submit a complete and working full-stack application, the scope has been narrowed down to a **staff-only module** that handles menu management. This system can serve as the foundation or backend for a larger in-room dining system in the future.
-
-The project enables hotel staff to:
+<br>
+The project enables hotel staff to:<br>
 1. Add new food items to the menu
 2. View all available menu items
 3. Edit existing food items
 4. Delete menu items
-
-**Features**
+<br>
+**Features**<br>
 1. Grid-based layout for displaying food items
 2. Stylish card design with hover effects
 3. Form-based item creation and editing
 4. Data stored in a JSON file to simulate a database
 5. RESTful backend using Express.js
-
-**Technologies Used**
+<br>
+**Technologies Used**<br>
 **Frontend:**
 1. HTML5
 2. CSS3
 3. JavaScript
-
-**Backend:**
+<br>
+**Backend:**<br>
 1. Node.js
 2. Express.js
-
-**Data Storage:**
+<br>
+**Data Storage:**<br>
 1. JSON file 
 
-
+<br>
 **About The Solitaire Hotel, Dehradun**
-
+<br>
 1. **Type:** 4‑star boutique hotel  
 2. **Location:** Haridwar By‑pass Road, Dehradun, Uttarakhand
    https://maps.app.goo.gl/Df8Q3VFgfLYhvRzu9?g_st=aw
